@@ -1,0 +1,8 @@
+{
+  "RefundPolicy": "Official Refund Policy for sales solutions. Valid for 14 days following deployment. Processing requires invoice documentation.",
+  "PrivacyPolicy": "GDPR compliant Privacy Policy. We encrypt data transactions at rest and in transit. User credentials are archived securely.",
+  "TermsOfService": "Platform Terms of Service. Prohibits unauthorized scrapers. Service availability target is 99.9%.",
+  "ShippingPolicy": "Worldwide shipping guide. Standard shipping takes 5-10 business days. Customs duties paid by importer.",
+  "WarrantyPolicy": "Product warranty guidelines. Covers hardware malfunctions for up to 12 months. Excludes damage caused by modification.",
+  "ServiceAgreement": "Standard service SLA. Support tickets prioritized by customer sentiment. Low confidence requests auto-escalate to human agents."
+}

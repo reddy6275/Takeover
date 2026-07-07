@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #1)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What are the emergency shutdown steps for the CNC Lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #2)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #3)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #4)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #5)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #6)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #7)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #8)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #9)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #10)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #11)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #12)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #13)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #14)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #15)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #16)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #17)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #18)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #19)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #20)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #21)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #22)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #23)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #24)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #25)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #26)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #27)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #28)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #29)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #30)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #31)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #32)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #33)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #34)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #35)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #36)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #37)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #38)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #39)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #40)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #41)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #42)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #43)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #44)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #45)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #46)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #47)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #48)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #49)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #50)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #51)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #52)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #53)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #54)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #55)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #56)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #57)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #58)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #59)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #60)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #61)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #62)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #63)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #64)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #65)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #66)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #67)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #68)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #69)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #70)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #71)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #72)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #73)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #74)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #75)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #76)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #77)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #78)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #79)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #80)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #81)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #82)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #83)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #84)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #85)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #86)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #87)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #88)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #89)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #90)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #91)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #92)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #93)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #94)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #95)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Regarding the system: What is the calibration interval for the spindle rotation sensor?",
+    "answer": "Spindle rotation sensors must undergo calibration verification every 180 operating hours. Full recalibration must be executed if sensor readings deviate by more than 0.05% from the reference standard. (FAQ Reference Node #96)",
+    "category": "Manuals",
+    "keywords": [
+      "manufacturing",
+      "manuals",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Can you explain what are the emergency shutdown steps for the cnc lathe?",
+    "answer": "In case of emergency: 1. Press the primary red E-STOP button immediately. 2. Cut the main circuit breaker on the left wall. 3. Back away from the spindle. 4. Notify the floor safety supervisor immediately. (FAQ Reference Node #97)",
+    "category": "SOPs",
+    "keywords": [
+      "manufacturing",
+      "sops",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Quick question, how do I troubleshoot hydraulic pressure loss?",
+    "answer": "1. Inspect pressure gauges to confirm loss scale. 2. Verify hydraulic fluid level is above the critical threshold. 3. Check for external hose leaks or cracks. 4. Inspect the solenoid valve status LED. If yellow/red, replace the valve. (FAQ Reference Node #98)",
+    "category": "Safety",
+    "keywords": [
+      "manufacturing",
+      "safety",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "I wanted to ask: What safety equipment is mandatory on the plant floor?",
+    "answer": "Mandatory PPE includes: high-impact safety glasses (ANSI Z87.1), steel-toed boots, high-visibility vest, and double hearing protection in zones exceeding 85 dBA. (FAQ Reference Node #99)",
+    "category": "Machine Maintenance",
+    "keywords": [
+      "manufacturing",
+      "machine maintenance",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Could you help with this: What is the SOP for hot work welding calibration?",
+    "answer": "Hot work calibration requires: 1. Issuing a Hot Work Permit. 2. Testing gas levels using a calibrated multi-gas monitor. 3. Clearing combustible materials within a 35-foot radius. 4. Positioning a dedicated fire watch engineer with a charged extinguisher. (FAQ Reference Node #100)",
+    "category": "Troubleshooting",
+    "keywords": [
+      "manufacturing",
+      "troubleshooting",
+      "duration",
+      "instructions"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "man-1",
+    "machine": "CNC Lathe Spindle L-400",
+    "type": "Safety & SOP Manual",
+    "sections": [
+      {
+        "title": "1. Operations Safety",
+        "content": "Operators must secure safety shield guards and wear mandatory ANSI Z87.1 glasses before triggering spindle rotation."
+      },
+      {
+        "title": "2. Lubrication Cycle",
+        "content": "Lubricating oil level must be inspected before each shift. Replace filter elements every 250 operating hours."
+      }
+    ]
+  },
+  {
+    "id": "man-2",
+    "machine": "Hydraulic Compacting Press",
+    "type": "Troubleshooting Guide",
+    "sections": [
+      {
+        "title": "1. Hydraulic Pressure Losses",
+        "content": "Verify hydraulic valves and inspect pressure indicators. Solenoid light green signifies normal output. Replace valve if red."
+      }
+    ]
+  }
+]

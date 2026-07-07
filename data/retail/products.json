@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Silk Summer Dress (Style #1001)",
+    "description": "High-quality silk summer dress (style #1001) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 48.49,
+    "category": "Apparel",
+    "stock": 6,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Cotton Denim Jacket (Style #1002)",
+    "description": "High-quality cotton denim jacket (style #1002) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 56.99,
+    "category": "Accessories",
+    "stock": 10,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Designer Sunglasses (Style #1003)",
+    "description": "High-quality designer sunglasses (style #1003) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 65.49,
+    "category": "Electronics",
+    "stock": 14,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Cashmere Wool Scarf (Style #1004)",
+    "description": "High-quality cashmere wool scarf (style #1004) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 73.99,
+    "category": "Footwear",
+    "stock": 18,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Running Athletic Shoes (Style #1005)",
+    "description": "High-quality running athletic shoes (style #1005) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 82.49,
+    "category": "Apparel",
+    "stock": 22,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Smart Sports Watch (Style #1006)",
+    "description": "High-quality smart sports watch (style #1006) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 90.99,
+    "category": "Accessories",
+    "stock": 26,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Audio Earbuds (Style #1007)",
+    "description": "High-quality wireless audio earbuds (style #1007) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 99.49,
+    "category": "Electronics",
+    "stock": 30,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Premium Leather Boots (Style #1008)",
+    "description": "High-quality premium leather boots (style #1008) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 107.99,
+    "category": "Footwear",
+    "stock": 34,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Silk Summer Dress (Style #1009)",
+    "description": "High-quality silk summer dress (style #1009) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 116.49,
+    "category": "Apparel",
+    "stock": 38,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Cotton Denim Jacket (Style #1010)",
+    "description": "High-quality cotton denim jacket (style #1010) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 124.99,
+    "category": "Accessories",
+    "stock": 42,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Designer Sunglasses (Style #1011)",
+    "description": "High-quality designer sunglasses (style #1011) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 133.49,
+    "category": "Electronics",
+    "stock": 46,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Cashmere Wool Scarf (Style #1012)",
+    "description": "High-quality cashmere wool scarf (style #1012) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 141.99,
+    "category": "Footwear",
+    "stock": 50,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "Running Athletic Shoes (Style #1013)",
+    "description": "High-quality running athletic shoes (style #1013) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 150.49,
+    "category": "Apparel",
+    "stock": 54,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Smart Sports Watch (Style #1014)",
+    "description": "High-quality smart sports watch (style #1014) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 158.99,
+    "category": "Accessories",
+    "stock": 58,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "Wireless Audio Earbuds (Style #1015)",
+    "description": "High-quality wireless audio earbuds (style #1015) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 167.49,
+    "category": "Electronics",
+    "stock": 2,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 16,
+    "name": "Premium Leather Boots (Style #1016)",
+    "description": "High-quality premium leather boots (style #1016) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 175.99,
+    "category": "Footwear",
+    "stock": 6,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 17,
+    "name": "Silk Summer Dress (Style #1017)",
+    "description": "High-quality silk summer dress (style #1017) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 184.49,
+    "category": "Apparel",
+    "stock": 10,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 18,
+    "name": "Cotton Denim Jacket (Style #1018)",
+    "description": "High-quality cotton denim jacket (style #1018) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 192.99,
+    "category": "Accessories",
+    "stock": 14,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 19,
+    "name": "Designer Sunglasses (Style #1019)",
+    "description": "High-quality designer sunglasses (style #1019) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 201.49,
+    "category": "Electronics",
+    "stock": 18,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 20,
+    "name": "Cashmere Wool Scarf (Style #1020)",
+    "description": "High-quality cashmere wool scarf (style #1020) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 209.99,
+    "category": "Footwear",
+    "stock": 22,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 21,
+    "name": "Running Athletic Shoes (Style #1021)",
+    "description": "High-quality running athletic shoes (style #1021) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 218.49,
+    "category": "Apparel",
+    "stock": 26,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 22,
+    "name": "Smart Sports Watch (Style #1022)",
+    "description": "High-quality smart sports watch (style #1022) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 226.99,
+    "category": "Accessories",
+    "stock": 30,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 23,
+    "name": "Wireless Audio Earbuds (Style #1023)",
+    "description": "High-quality wireless audio earbuds (style #1023) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 235.49,
+    "category": "Electronics",
+    "stock": 34,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 24,
+    "name": "Premium Leather Boots (Style #1024)",
+    "description": "High-quality premium leather boots (style #1024) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 243.99,
+    "category": "Footwear",
+    "stock": 38,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 25,
+    "name": "Silk Summer Dress (Style #1025)",
+    "description": "High-quality silk summer dress (style #1025) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 39.99,
+    "category": "Apparel",
+    "stock": 42,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 26,
+    "name": "Cotton Denim Jacket (Style #1026)",
+    "description": "High-quality cotton denim jacket (style #1026) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 48.49,
+    "category": "Accessories",
+    "stock": 46,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 27,
+    "name": "Designer Sunglasses (Style #1027)",
+    "description": "High-quality designer sunglasses (style #1027) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 56.99,
+    "category": "Electronics",
+    "stock": 50,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 28,
+    "name": "Cashmere Wool Scarf (Style #1028)",
+    "description": "High-quality cashmere wool scarf (style #1028) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 65.49,
+    "category": "Footwear",
+    "stock": 54,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 29,
+    "name": "Running Athletic Shoes (Style #1029)",
+    "description": "High-quality running athletic shoes (style #1029) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 73.99,
+    "category": "Apparel",
+    "stock": 58,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 30,
+    "name": "Smart Sports Watch (Style #1030)",
+    "description": "High-quality smart sports watch (style #1030) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 82.49,
+    "category": "Accessories",
+    "stock": 2,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 31,
+    "name": "Wireless Audio Earbuds (Style #1031)",
+    "description": "High-quality wireless audio earbuds (style #1031) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 90.99,
+    "category": "Electronics",
+    "stock": 6,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 32,
+    "name": "Premium Leather Boots (Style #1032)",
+    "description": "High-quality premium leather boots (style #1032) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 99.49,
+    "category": "Footwear",
+    "stock": 10,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 33,
+    "name": "Silk Summer Dress (Style #1033)",
+    "description": "High-quality silk summer dress (style #1033) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 107.99,
+    "category": "Apparel",
+    "stock": 14,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 34,
+    "name": "Cotton Denim Jacket (Style #1034)",
+    "description": "High-quality cotton denim jacket (style #1034) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 116.49,
+    "category": "Accessories",
+    "stock": 18,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 35,
+    "name": "Designer Sunglasses (Style #1035)",
+    "description": "High-quality designer sunglasses (style #1035) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 124.99,
+    "category": "Electronics",
+    "stock": 22,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 36,
+    "name": "Cashmere Wool Scarf (Style #1036)",
+    "description": "High-quality cashmere wool scarf (style #1036) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 133.49,
+    "category": "Footwear",
+    "stock": 26,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 37,
+    "name": "Running Athletic Shoes (Style #1037)",
+    "description": "High-quality running athletic shoes (style #1037) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 141.99,
+    "category": "Apparel",
+    "stock": 30,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 38,
+    "name": "Smart Sports Watch (Style #1038)",
+    "description": "High-quality smart sports watch (style #1038) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 150.49,
+    "category": "Accessories",
+    "stock": 34,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 39,
+    "name": "Wireless Audio Earbuds (Style #1039)",
+    "description": "High-quality wireless audio earbuds (style #1039) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 158.99,
+    "category": "Electronics",
+    "stock": 38,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 40,
+    "name": "Premium Leather Boots (Style #1040)",
+    "description": "High-quality premium leather boots (style #1040) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 167.49,
+    "category": "Footwear",
+    "stock": 42,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 41,
+    "name": "Silk Summer Dress (Style #1041)",
+    "description": "High-quality silk summer dress (style #1041) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 175.99,
+    "category": "Apparel",
+    "stock": 46,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 42,
+    "name": "Cotton Denim Jacket (Style #1042)",
+    "description": "High-quality cotton denim jacket (style #1042) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 184.49,
+    "category": "Accessories",
+    "stock": 50,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 43,
+    "name": "Designer Sunglasses (Style #1043)",
+    "description": "High-quality designer sunglasses (style #1043) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 192.99,
+    "category": "Electronics",
+    "stock": 54,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 44,
+    "name": "Cashmere Wool Scarf (Style #1044)",
+    "description": "High-quality cashmere wool scarf (style #1044) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 201.49,
+    "category": "Footwear",
+    "stock": 58,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 45,
+    "name": "Running Athletic Shoes (Style #1045)",
+    "description": "High-quality running athletic shoes (style #1045) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 209.99,
+    "category": "Apparel",
+    "stock": 2,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 46,
+    "name": "Smart Sports Watch (Style #1046)",
+    "description": "High-quality smart sports watch (style #1046) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 218.49,
+    "category": "Accessories",
+    "stock": 6,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 47,
+    "name": "Wireless Audio Earbuds (Style #1047)",
+    "description": "High-quality wireless audio earbuds (style #1047) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 226.99,
+    "category": "Electronics",
+    "stock": 10,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 48,
+    "name": "Premium Leather Boots (Style #1048)",
+    "description": "High-quality premium leather boots (style #1048) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 235.49,
+    "category": "Footwear",
+    "stock": 14,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 49,
+    "name": "Silk Summer Dress (Style #1049)",
+    "description": "High-quality silk summer dress (style #1049) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 243.99,
+    "category": "Apparel",
+    "stock": 18,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 50,
+    "name": "Cotton Denim Jacket (Style #1050)",
+    "description": "High-quality cotton denim jacket (style #1050) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 39.99,
+    "category": "Accessories",
+    "stock": 22,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 51,
+    "name": "Designer Sunglasses (Style #1051)",
+    "description": "High-quality designer sunglasses (style #1051) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 48.49,
+    "category": "Electronics",
+    "stock": 26,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 52,
+    "name": "Cashmere Wool Scarf (Style #1052)",
+    "description": "High-quality cashmere wool scarf (style #1052) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 56.99,
+    "category": "Footwear",
+    "stock": 30,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 53,
+    "name": "Running Athletic Shoes (Style #1053)",
+    "description": "High-quality running athletic shoes (style #1053) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 65.49,
+    "category": "Apparel",
+    "stock": 34,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 54,
+    "name": "Smart Sports Watch (Style #1054)",
+    "description": "High-quality smart sports watch (style #1054) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 73.99,
+    "category": "Accessories",
+    "stock": 38,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 55,
+    "name": "Wireless Audio Earbuds (Style #1055)",
+    "description": "High-quality wireless audio earbuds (style #1055) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 82.49,
+    "category": "Electronics",
+    "stock": 42,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 56,
+    "name": "Premium Leather Boots (Style #1056)",
+    "description": "High-quality premium leather boots (style #1056) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 90.99,
+    "category": "Footwear",
+    "stock": 46,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 57,
+    "name": "Silk Summer Dress (Style #1057)",
+    "description": "High-quality silk summer dress (style #1057) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 99.49,
+    "category": "Apparel",
+    "stock": 50,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 58,
+    "name": "Cotton Denim Jacket (Style #1058)",
+    "description": "High-quality cotton denim jacket (style #1058) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 107.99,
+    "category": "Accessories",
+    "stock": 54,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 59,
+    "name": "Designer Sunglasses (Style #1059)",
+    "description": "High-quality designer sunglasses (style #1059) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 116.49,
+    "category": "Electronics",
+    "stock": 58,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 60,
+    "name": "Cashmere Wool Scarf (Style #1060)",
+    "description": "High-quality cashmere wool scarf (style #1060) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 124.99,
+    "category": "Footwear",
+    "stock": 2,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 61,
+    "name": "Running Athletic Shoes (Style #1061)",
+    "description": "High-quality running athletic shoes (style #1061) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 133.49,
+    "category": "Apparel",
+    "stock": 6,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 62,
+    "name": "Smart Sports Watch (Style #1062)",
+    "description": "High-quality smart sports watch (style #1062) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 141.99,
+    "category": "Accessories",
+    "stock": 10,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 63,
+    "name": "Wireless Audio Earbuds (Style #1063)",
+    "description": "High-quality wireless audio earbuds (style #1063) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 150.49,
+    "category": "Electronics",
+    "stock": 14,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 64,
+    "name": "Premium Leather Boots (Style #1064)",
+    "description": "High-quality premium leather boots (style #1064) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 158.99,
+    "category": "Footwear",
+    "stock": 18,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 65,
+    "name": "Silk Summer Dress (Style #1065)",
+    "description": "High-quality silk summer dress (style #1065) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 167.49,
+    "category": "Apparel",
+    "stock": 22,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 66,
+    "name": "Cotton Denim Jacket (Style #1066)",
+    "description": "High-quality cotton denim jacket (style #1066) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 175.99,
+    "category": "Accessories",
+    "stock": 26,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 67,
+    "name": "Designer Sunglasses (Style #1067)",
+    "description": "High-quality designer sunglasses (style #1067) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 184.49,
+    "category": "Electronics",
+    "stock": 30,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 68,
+    "name": "Cashmere Wool Scarf (Style #1068)",
+    "description": "High-quality cashmere wool scarf (style #1068) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 192.99,
+    "category": "Footwear",
+    "stock": 34,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 69,
+    "name": "Running Athletic Shoes (Style #1069)",
+    "description": "High-quality running athletic shoes (style #1069) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 201.49,
+    "category": "Apparel",
+    "stock": 38,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 70,
+    "name": "Smart Sports Watch (Style #1070)",
+    "description": "High-quality smart sports watch (style #1070) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 209.99,
+    "category": "Accessories",
+    "stock": 42,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 71,
+    "name": "Wireless Audio Earbuds (Style #1071)",
+    "description": "High-quality wireless audio earbuds (style #1071) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 218.49,
+    "category": "Electronics",
+    "stock": 46,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 72,
+    "name": "Premium Leather Boots (Style #1072)",
+    "description": "High-quality premium leather boots (style #1072) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 226.99,
+    "category": "Footwear",
+    "stock": 50,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 73,
+    "name": "Silk Summer Dress (Style #1073)",
+    "description": "High-quality silk summer dress (style #1073) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 235.49,
+    "category": "Apparel",
+    "stock": 54,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 74,
+    "name": "Cotton Denim Jacket (Style #1074)",
+    "description": "High-quality cotton denim jacket (style #1074) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 243.99,
+    "category": "Accessories",
+    "stock": 58,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 75,
+    "name": "Designer Sunglasses (Style #1075)",
+    "description": "High-quality designer sunglasses (style #1075) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 39.99,
+    "category": "Electronics",
+    "stock": 2,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 76,
+    "name": "Cashmere Wool Scarf (Style #1076)",
+    "description": "High-quality cashmere wool scarf (style #1076) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 48.49,
+    "category": "Footwear",
+    "stock": 6,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 77,
+    "name": "Running Athletic Shoes (Style #1077)",
+    "description": "High-quality running athletic shoes (style #1077) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 56.99,
+    "category": "Apparel",
+    "stock": 10,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 78,
+    "name": "Smart Sports Watch (Style #1078)",
+    "description": "High-quality smart sports watch (style #1078) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 65.49,
+    "category": "Accessories",
+    "stock": 14,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 79,
+    "name": "Wireless Audio Earbuds (Style #1079)",
+    "description": "High-quality wireless audio earbuds (style #1079) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 73.99,
+    "category": "Electronics",
+    "stock": 18,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 80,
+    "name": "Premium Leather Boots (Style #1080)",
+    "description": "High-quality premium leather boots (style #1080) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 82.49,
+    "category": "Footwear",
+    "stock": 22,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 81,
+    "name": "Silk Summer Dress (Style #1081)",
+    "description": "High-quality silk summer dress (style #1081) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 90.99,
+    "category": "Apparel",
+    "stock": 26,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 82,
+    "name": "Cotton Denim Jacket (Style #1082)",
+    "description": "High-quality cotton denim jacket (style #1082) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 99.49,
+    "category": "Accessories",
+    "stock": 30,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 83,
+    "name": "Designer Sunglasses (Style #1083)",
+    "description": "High-quality designer sunglasses (style #1083) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 107.99,
+    "category": "Electronics",
+    "stock": 34,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 84,
+    "name": "Cashmere Wool Scarf (Style #1084)",
+    "description": "High-quality cashmere wool scarf (style #1084) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 116.49,
+    "category": "Footwear",
+    "stock": 38,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 85,
+    "name": "Running Athletic Shoes (Style #1085)",
+    "description": "High-quality running athletic shoes (style #1085) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 124.99,
+    "category": "Apparel",
+    "stock": 42,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 86,
+    "name": "Smart Sports Watch (Style #1086)",
+    "description": "High-quality smart sports watch (style #1086) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 133.49,
+    "category": "Accessories",
+    "stock": 46,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 87,
+    "name": "Wireless Audio Earbuds (Style #1087)",
+    "description": "High-quality wireless audio earbuds (style #1087) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 141.99,
+    "category": "Electronics",
+    "stock": 50,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 88,
+    "name": "Premium Leather Boots (Style #1088)",
+    "description": "High-quality premium leather boots (style #1088) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 150.49,
+    "category": "Footwear",
+    "stock": 54,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 89,
+    "name": "Silk Summer Dress (Style #1089)",
+    "description": "High-quality silk summer dress (style #1089) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 158.99,
+    "category": "Apparel",
+    "stock": 58,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 90,
+    "name": "Cotton Denim Jacket (Style #1090)",
+    "description": "High-quality cotton denim jacket (style #1090) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 167.49,
+    "category": "Accessories",
+    "stock": 2,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 91,
+    "name": "Designer Sunglasses (Style #1091)",
+    "description": "High-quality designer sunglasses (style #1091) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 175.99,
+    "category": "Electronics",
+    "stock": 6,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 92,
+    "name": "Cashmere Wool Scarf (Style #1092)",
+    "description": "High-quality cashmere wool scarf (style #1092) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 184.49,
+    "category": "Footwear",
+    "stock": 10,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 93,
+    "name": "Running Athletic Shoes (Style #1093)",
+    "description": "High-quality running athletic shoes (style #1093) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 192.99,
+    "category": "Apparel",
+    "stock": 14,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 94,
+    "name": "Smart Sports Watch (Style #1094)",
+    "description": "High-quality smart sports watch (style #1094) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 201.49,
+    "category": "Accessories",
+    "stock": 18,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 95,
+    "name": "Wireless Audio Earbuds (Style #1095)",
+    "description": "High-quality wireless audio earbuds (style #1095) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 209.99,
+    "category": "Electronics",
+    "stock": 22,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 96,
+    "name": "Premium Leather Boots (Style #1096)",
+    "description": "High-quality premium leather boots (style #1096) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 218.49,
+    "category": "Footwear",
+    "stock": 26,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 97,
+    "name": "Silk Summer Dress (Style #1097)",
+    "description": "High-quality silk summer dress (style #1097) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 226.99,
+    "category": "Apparel",
+    "stock": 30,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 98,
+    "name": "Cotton Denim Jacket (Style #1098)",
+    "description": "High-quality cotton denim jacket (style #1098) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 235.49,
+    "category": "Accessories",
+    "stock": 34,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 99,
+    "name": "Designer Sunglasses (Style #1099)",
+    "description": "High-quality designer sunglasses (style #1099) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 243.99,
+    "category": "Electronics",
+    "stock": 38,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=300&auto=format&fit=crop"
+  },
+  {
+    "id": 100,
+    "name": "Cashmere Wool Scarf (Style #1100)",
+    "description": "High-quality cashmere wool scarf (style #1100) featuring premium materials, detailed design elements, and comfort tailoring. Grounded RAG product catalog node.",
+    "price": 39.99,
+    "category": "Footwear",
+    "stock": 42,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=300&auto=format&fit=crop"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "con-1",
+    "type": "Commercial Lease Agreement",
+    "reference": "CLA-2026-X1",
+    "clauses": [
+      {
+        "section": "4. Rent Terms",
+        "text": "Rent is payable in advance on the first day of each month. Late fees apply after the fifth day."
+      },
+      {
+        "section": "12. Early Termination",
+        "text": "Lessee can terminate this lease early with a minimum of 90 days' written notice and penalty equivalent to three months of rent."
+      }
+    ]
+  },
+  {
+    "id": "con-2",
+    "type": "Standard Mutual NDA",
+    "reference": "MNDA-V1.2",
+    "clauses": [
+      {
+        "section": "3. Scope of Disclosure",
+        "text": "Disclosures are marked confidential at the time of sharing or confirmed in writing within 15 business days."
+      }
+    ]
+  }
+]

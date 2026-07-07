@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-1-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T05:11:19.917Z"
+      },
+      {
+        "id": "msg-1-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-1",
+            "document_id": "doc-2",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.86,
+        "timestamp": "2026-07-07T05:11:25.917Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-2-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T05:06:19.917Z"
+      },
+      {
+        "id": "msg-2-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-2",
+            "document_id": "doc-3",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.87,
+        "timestamp": "2026-07-07T05:06:31.917Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-3-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T05:01:19.917Z"
+      },
+      {
+        "id": "msg-3-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-3",
+            "document_id": "doc-4",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.88,
+        "timestamp": "2026-07-07T05:01:37.917Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-4-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:56:19.917Z"
+      },
+      {
+        "id": "msg-4-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-4",
+            "document_id": "doc-5",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.89,
+        "timestamp": "2026-07-07T04:56:43.917Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-5-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:51:19.917Z"
+      },
+      {
+        "id": "msg-5-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-5",
+            "document_id": "doc-6",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.9,
+        "timestamp": "2026-07-07T04:51:49.917Z"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-6-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:46:19.917Z"
+      },
+      {
+        "id": "msg-6-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-6",
+            "document_id": "doc-7",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.9099999999999999,
+        "timestamp": "2026-07-07T04:46:55.917Z"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-7-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:41:19.917Z"
+      },
+      {
+        "id": "msg-7-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-7",
+            "document_id": "doc-8",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.9199999999999999,
+        "timestamp": "2026-07-07T04:42:01.917Z"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-8-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:36:19.917Z"
+      },
+      {
+        "id": "msg-8-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-8",
+            "document_id": "doc-9",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.9299999999999999,
+        "timestamp": "2026-07-07T04:37:07.917Z"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-9-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:31:19.917Z"
+      },
+      {
+        "id": "msg-9-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-9",
+            "document_id": "doc-10",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.94,
+        "timestamp": "2026-07-07T04:32:13.917Z"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-10-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:26:19.917Z"
+      },
+      {
+        "id": "msg-10-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-10",
+            "document_id": "doc-11",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.95,
+        "timestamp": "2026-07-07T04:27:19.917Z"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-11-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:21:19.917Z"
+      },
+      {
+        "id": "msg-11-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-11",
+            "document_id": "doc-12",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.96,
+        "timestamp": "2026-07-07T04:22:25.917Z"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-12-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:16:19.917Z"
+      },
+      {
+        "id": "msg-12-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-12",
+            "document_id": "doc-13",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.97,
+        "timestamp": "2026-07-07T04:17:31.917Z"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-13-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:11:19.917Z"
+      },
+      {
+        "id": "msg-13-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-13",
+            "document_id": "doc-14",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.98,
+        "timestamp": "2026-07-07T04:12:37.917Z"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-14-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:06:19.917Z"
+      },
+      {
+        "id": "msg-14-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-14",
+            "document_id": "doc-15",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.99,
+        "timestamp": "2026-07-07T04:07:43.917Z"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-15-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T04:01:19.917Z"
+      },
+      {
+        "id": "msg-15-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-15",
+            "document_id": "doc-16",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.85,
+        "timestamp": "2026-07-07T04:02:49.917Z"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-16-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:56:19.917Z"
+      },
+      {
+        "id": "msg-16-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-16",
+            "document_id": "doc-17",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.86,
+        "timestamp": "2026-07-07T03:57:55.917Z"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-17-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:51:19.918Z"
+      },
+      {
+        "id": "msg-17-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-17",
+            "document_id": "doc-18",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.87,
+        "timestamp": "2026-07-07T03:53:01.918Z"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-18-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:46:19.918Z"
+      },
+      {
+        "id": "msg-18-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-18",
+            "document_id": "doc-19",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.88,
+        "timestamp": "2026-07-07T03:48:07.918Z"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-19-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:41:19.918Z"
+      },
+      {
+        "id": "msg-19-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-19",
+            "document_id": "doc-20",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.89,
+        "timestamp": "2026-07-07T03:43:13.918Z"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-20-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:36:19.918Z"
+      },
+      {
+        "id": "msg-20-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-20",
+            "document_id": "doc-21",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.9,
+        "timestamp": "2026-07-07T03:38:19.918Z"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-21-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:31:19.918Z"
+      },
+      {
+        "id": "msg-21-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-21",
+            "document_id": "doc-22",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.9099999999999999,
+        "timestamp": "2026-07-07T03:33:25.918Z"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-22-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:26:19.918Z"
+      },
+      {
+        "id": "msg-22-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-22",
+            "document_id": "doc-23",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.9199999999999999,
+        "timestamp": "2026-07-07T03:28:31.918Z"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-23-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:21:19.918Z"
+      },
+      {
+        "id": "msg-23-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-23",
+            "document_id": "doc-24",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.9299999999999999,
+        "timestamp": "2026-07-07T03:23:37.918Z"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-24-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:16:19.918Z"
+      },
+      {
+        "id": "msg-24-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-24",
+            "document_id": "doc-25",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.94,
+        "timestamp": "2026-07-07T03:18:43.918Z"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-25-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:11:19.918Z"
+      },
+      {
+        "id": "msg-25-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-25",
+            "document_id": "doc-26",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.95,
+        "timestamp": "2026-07-07T03:13:49.918Z"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-26-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:06:19.918Z"
+      },
+      {
+        "id": "msg-26-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-26",
+            "document_id": "doc-27",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.96,
+        "timestamp": "2026-07-07T03:08:55.918Z"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-27-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T03:01:19.918Z"
+      },
+      {
+        "id": "msg-27-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-27",
+            "document_id": "doc-28",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.97,
+        "timestamp": "2026-07-07T03:04:01.918Z"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-28-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:56:19.918Z"
+      },
+      {
+        "id": "msg-28-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-28",
+            "document_id": "doc-29",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.98,
+        "timestamp": "2026-07-07T02:59:07.918Z"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-29-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:51:19.918Z"
+      },
+      {
+        "id": "msg-29-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-29",
+            "document_id": "doc-30",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.99,
+        "timestamp": "2026-07-07T02:54:13.918Z"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-30-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:46:19.918Z"
+      },
+      {
+        "id": "msg-30-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-30",
+            "document_id": "doc-1",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.85,
+        "timestamp": "2026-07-07T02:49:19.918Z"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-31-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:41:19.918Z"
+      },
+      {
+        "id": "msg-31-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-31",
+            "document_id": "doc-2",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.86,
+        "timestamp": "2026-07-07T02:44:25.918Z"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-32-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:36:19.918Z"
+      },
+      {
+        "id": "msg-32-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-32",
+            "document_id": "doc-3",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.87,
+        "timestamp": "2026-07-07T02:39:31.918Z"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-33-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:31:19.918Z"
+      },
+      {
+        "id": "msg-33-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-33",
+            "document_id": "doc-4",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.88,
+        "timestamp": "2026-07-07T02:34:37.918Z"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-34-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:26:19.918Z"
+      },
+      {
+        "id": "msg-34-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-34",
+            "document_id": "doc-5",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.89,
+        "timestamp": "2026-07-07T02:29:43.918Z"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-35-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:21:19.918Z"
+      },
+      {
+        "id": "msg-35-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-35",
+            "document_id": "doc-6",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.9,
+        "timestamp": "2026-07-07T02:24:49.918Z"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-36-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:16:19.918Z"
+      },
+      {
+        "id": "msg-36-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-36",
+            "document_id": "doc-7",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.9099999999999999,
+        "timestamp": "2026-07-07T02:19:55.918Z"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-37-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:11:19.918Z"
+      },
+      {
+        "id": "msg-37-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-37",
+            "document_id": "doc-8",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.9199999999999999,
+        "timestamp": "2026-07-07T02:15:01.918Z"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-38-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:06:19.918Z"
+      },
+      {
+        "id": "msg-38-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-38",
+            "document_id": "doc-9",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.9299999999999999,
+        "timestamp": "2026-07-07T02:10:07.918Z"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-39-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T02:01:19.918Z"
+      },
+      {
+        "id": "msg-39-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-39",
+            "document_id": "doc-10",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.94,
+        "timestamp": "2026-07-07T02:05:13.918Z"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-40-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:56:19.918Z"
+      },
+      {
+        "id": "msg-40-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-40",
+            "document_id": "doc-11",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.95,
+        "timestamp": "2026-07-07T02:00:19.918Z"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-41-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:51:19.918Z"
+      },
+      {
+        "id": "msg-41-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-41",
+            "document_id": "doc-12",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.96,
+        "timestamp": "2026-07-07T01:55:25.918Z"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-42-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:46:19.918Z"
+      },
+      {
+        "id": "msg-42-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-42",
+            "document_id": "doc-13",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.97,
+        "timestamp": "2026-07-07T01:50:31.918Z"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-43-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:41:19.918Z"
+      },
+      {
+        "id": "msg-43-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-43",
+            "document_id": "doc-14",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.98,
+        "timestamp": "2026-07-07T01:45:37.918Z"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-44-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:36:19.918Z"
+      },
+      {
+        "id": "msg-44-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-44",
+            "document_id": "doc-15",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.99,
+        "timestamp": "2026-07-07T01:40:43.918Z"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-45-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:31:19.918Z"
+      },
+      {
+        "id": "msg-45-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-45",
+            "document_id": "doc-16",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.85,
+        "timestamp": "2026-07-07T01:35:49.918Z"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "customerEmail": "user2@gmail.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-46-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:26:19.918Z"
+      },
+      {
+        "id": "msg-46-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-46",
+            "document_id": "doc-17",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.86,
+        "timestamp": "2026-07-07T01:30:55.918Z"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "customerEmail": "prospect3@corp.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-47-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:21:19.918Z"
+      },
+      {
+        "id": "msg-47-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-47",
+            "document_id": "doc-18",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.87,
+        "timestamp": "2026-07-07T01:26:01.918Z"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "customerEmail": "operator4@plant.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-48-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:16:19.918Z"
+      },
+      {
+        "id": "msg-48-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-48",
+            "document_id": "doc-19",
+            "filename": "Grounded_Source_legal_0.pdf"
+          }
+        ],
+        "confidence": 0.88,
+        "timestamp": "2026-07-07T01:21:07.918Z"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "customerEmail": "buyer5@boutique.com",
+    "status": "resolved",
+    "messages": [
+      {
+        "id": "msg-49-1",
+        "sender": "customer",
+        "content": "What is GDPR consent compliance?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:11:19.918Z"
+      },
+      {
+        "id": "msg-49-2",
+        "sender": "ai",
+        "content": "GDPR consent requires a clear, informed, freely-given, and unambiguous user action. Silent or pre-ticked boxes are non-compliant.",
+        "citations": [
+          {
+            "chunk_id": "chunk-49",
+            "document_id": "doc-20",
+            "filename": "Grounded_Source_legal_1.pdf"
+          }
+        ],
+        "confidence": 0.89,
+        "timestamp": "2026-07-07T01:16:13.918Z"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "customerEmail": "user1@gmail.com",
+    "status": "pending",
+    "messages": [
+      {
+        "id": "msg-50-1",
+        "sender": "customer",
+        "content": "Can I terminate my commercial lease early?",
+        "sentiment": "neutral",
+        "timestamp": "2026-07-07T01:06:19.918Z"
+      },
+      {
+        "id": "msg-50-2",
+        "sender": "ai",
+        "content": "Yes, commercial lease contracts can be terminated early by providing a 90-day written notice and paying the three-month rent penalty.",
+        "citations": [
+          {
+            "chunk_id": "chunk-50",
+            "document_id": "doc-21",
+            "filename": "Grounded_Source_legal_2.pdf"
+          }
+        ],
+        "confidence": 0.9,
+        "timestamp": "2026-07-07T01:11:19.918Z"
+      }
+    ]
+  }
+]

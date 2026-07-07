@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #1)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #2)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #3)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #4)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #5)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #6)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #7)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #8)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #9)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #10)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #11)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #12)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #13)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #14)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #15)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #16)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #17)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #18)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #19)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #20)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #21)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #22)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #23)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #24)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #25)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #26)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #27)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #28)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #29)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #30)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #31)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #32)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #33)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #34)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #35)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #36)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #37)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #38)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #39)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #40)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #41)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #42)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #43)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #44)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #45)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #46)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #47)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #48)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #49)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #50)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #51)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #52)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #53)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #54)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #55)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #56)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #57)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #58)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #59)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #60)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #61)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #62)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #63)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #64)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #65)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #66)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #67)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #68)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #69)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #70)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #71)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #72)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #73)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #74)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #75)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #76)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #77)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #78)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #79)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #80)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #81)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #82)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #83)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #84)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #85)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #86)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #87)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #88)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #89)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #90)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #91)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #92)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "duration",
+      "instructions"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #93)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "instructions",
+      "fees"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #94)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "fees",
+      "details"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #95)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "details",
+      "help"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "Regarding the system: How do I terminate a commercial lease contract early?",
+    "answer": "To terminate a commercial lease contract early, you must review Section 12 (Early Termination). Generally, it requires a minimum of 90 days' written notice, settlement of all outstanding rents, and payment of a termination penalty equivalent to three months of rent. (FAQ Reference Node #96)",
+    "category": "Contracts",
+    "keywords": [
+      "legal",
+      "contracts",
+      "help",
+      "policy"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Can you explain what is required for formal property registration?",
+    "answer": "Property registration requires a notarized Deed of Sale, the original Title Deed, tax clearance certificates from the local municipality, official identification of both buyer and seller, and payment of the transfer tax. (FAQ Reference Node #97)",
+    "category": "Policies",
+    "keywords": [
+      "legal",
+      "policies",
+      "policy",
+      "guide"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Quick question, is an NDA enforceable without a consideration clause?",
+    "answer": "In most jurisdictions, a non-disclosure agreement (NDA) does require some form of consideration to be enforceable. For employees, this is usually the offer of employment; for external parties, it can be mutual exchange of proprietary information. (FAQ Reference Node #98)",
+    "category": "Compliance",
+    "keywords": [
+      "legal",
+      "compliance",
+      "guide",
+      "steps"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "I wanted to ask: What are the compliance rules for GDPR consent?",
+    "answer": "GDPR compliance requires consent to be freely given, specific, informed, and unambiguous. Silence, pre-ticked boxes, or inactivity do not constitute consent. Users must also be able to withdraw consent easily at any time. (FAQ Reference Node #99)",
+    "category": "Intellectual Property",
+    "keywords": [
+      "legal",
+      "intellectual property",
+      "steps",
+      "duration"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Could you help with this: How are IP rights allocated in a service agreement?",
+    "answer": "IP rights in service agreements typically specify that all work product created during the service belongs to the client (Work Made for Hire), whereas pre-existing IP remains the property of the respective creator. (FAQ Reference Node #100)",
+    "category": "Corporate Law",
+    "keywords": [
+      "legal",
+      "corporate law",
+      "duration",
+      "instructions"
+    ]
+  }
+]
